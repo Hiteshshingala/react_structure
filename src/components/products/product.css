@@ -1,0 +1,21 @@
+.product-box {
+    border: 1px solid black;
+    height: 17vh;
+    margin-top: 2vh;
+    min-height: 100px;
+}
+.font-bold {
+    font-size: 16px;
+    font-weight: 700;
+}
+.location {
+    font-size: 12px;
+}
+.content-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mh-80 {
+    min-height: 80vh;
+}
